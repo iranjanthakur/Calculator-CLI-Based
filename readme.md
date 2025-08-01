@@ -3,7 +3,7 @@
 > *"Where numbers meet simplicity, and calculations become conversations"*
 
 [![Python](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge&logo=python)](https://python.org)
-[![CLI](https://img.shields.io/badge/Interface-Command%20Line-green?style=for-the-badge)](https://github.com)
+[![CLI](https://img.shields.io/badge/Interface-Command%20Line-green?style=for-the-badge)](https://github.com/iranjanthakur/Calculator-CLI-Based)
 [![Math](https://img.shields.io/badge/Operations-4%20Basic-orange?style=for-the-badge)](https://github.com)
 
 ---
