@@ -1,0 +1,42 @@
+1. Normalization – It is a process of arranging data in tables to remove duplicates.
+It helps to make the database more efficient and organized.
+
+
+2. Primary Key vs Foreign Key –
+
+Primary Key: Uniquely identifies each row in a table.
+
+Foreign Key: Connects one table to another using the primary key of that table.
+
+
+
+3. Constraints – These are rules applied to columns to control data.
+Examples are NOT NULL, UNIQUE, CHECK, and PRIMARY KEY.
+
+
+4. Surrogate Key – It is an artificial key used as a primary key.
+Mostly it's an auto-generated number instead of real data.
+
+
+5. Avoid Data Redundancy – Use normalization to split data into related tables.
+Also, use proper relationships between tables to avoid duplicates.
+
+
+6. ER Diagram – It is a visual diagram that shows tables and their relationships.
+It helps in designing the structure of a database.
+
+
+7. Types of Relationships – One-to-One, One-to-Many, and Many-to-Many are main types.
+They define how tables are connected to each other.
+
+
+8. AUTO_INCREMENT – It automatically generates the next number for a column.
+Mostly used for primary key IDs in MySQL tables.
+
+
+9. Default Storage Engine in MySQL – MySQL uses InnoDB as default.
+It supports transactions and relationships between tables.
+
+
+10. Composite Key – A key made from two or more columns together.
+Used when a single column cannot uniquely identify a record.
