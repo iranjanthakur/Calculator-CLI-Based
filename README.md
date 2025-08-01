@@ -1,6 +1,8 @@
 # 🧮 Simple Python Calculator
 
-![Calculator Feature](https://via.placeholder.com/800x400/4CAF50/white?text=Python+Calculator+🧮)
+<img src = Screenshot_2025-08-01-21-40-20-33_a927ed2714ba3b9021f681846134c26f.jpg>
+
+[Calculator Feature](https://via.placeholder.com/800x400/4CAF50/white?text=Python+Calculator+🧮)
 
 A simple, interactive command-line calculator built with Python that performs basic arithmetic operations.
 
